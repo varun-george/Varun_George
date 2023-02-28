@@ -1,4 +1,4 @@
-## Hi, I'm Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Hi, Varun here </h2>
  
 
  I am a sophomore at Shiv Nadar University Chennai (SNUC).<br>
