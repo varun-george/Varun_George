@@ -1,11 +1,6 @@
 ## Hi, Varun here </h2>
  
-
- I am a sophomore at Shiv Nadar University Chennai (SNUC).<br>
- I am also an avid, curious and focused developer. ✨ <br>
- Full-stack enthusiast.
- <br >
-
+ 
 - 🔭 I’m currently working on React js, Next js, Express js, MongoDB, Prisma, REST APIs and web projects. 🐱‍👤
 - ⚡ I Love exploring new Tech 👨‍💻
 
