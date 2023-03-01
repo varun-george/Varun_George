@@ -63,7 +63,7 @@
 ## ❤ Connect
 
 <a href="https://www.linkedin.com/in/varun-george-340a28259/">
-  <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" height="30" width="30"/>
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/fluency/256/linkedin.png" height="30" width="30"/>
 </a>
 
 <a href="mailto:sureshvarungbv@gmail.com">
