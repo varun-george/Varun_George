@@ -66,12 +66,12 @@
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:akashrangesh07@gmail.com">
-  <img align="left" alt="akshay's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+<a href="mailto:sureshvarungbv@gmail.com">
+  <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 
 <a href="https://www.instagram.com/akash._.77/">
-  <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+  <img align="left" alt="akshay's Instagram" src="https://www.shutterstock.com/image-vector/email-vector-icon-icons-mail-260nw-1884307609.jpg"/>
 </a>  
   
 # 
