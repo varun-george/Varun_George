@@ -23,6 +23,9 @@
     <td>
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
+    <td>
+      <a title="C" href="https://python.org" target="_blank"> <img src="https://seeklogo.com/vector-logo/306166/c-programming-language" alt="C" width="40" height="40"/> </a>
+    </td>
   </tr>
   
   <tr>
