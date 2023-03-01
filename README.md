@@ -71,7 +71,7 @@
 </a>
 
 <a href="https://www.instagram.com/akash._.77/">
-  <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/gmail"/>
+  <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/white/gmail"/>
 </a>  
   
 # 
