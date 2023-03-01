@@ -22,21 +22,8 @@
     <td>
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
-    <td>
-      <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-    </td>
   </tr>
-  <tr>
-    <td>
-      <h4>Backend Frameworks</h4>
-    </td>
-    <td>
-      <a title="Django" href="https://https://gofiber.iodjangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
-    </td>
-  </tr>
+  
   <tr>
     <td>
       <h4>Frontend Languages</h4>
@@ -51,25 +38,8 @@
        <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <h4>Frontend Frameworks</h4>
-    </td>
-    <td>
-      <a title="React" href="https://reactjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>Databases</h4>
-    </td>
-    <td>
-      <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    </td>
-  </tr>
+ 
+ 
 </table>
 
 ## ❤ Connect
