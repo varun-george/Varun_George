@@ -8,6 +8,7 @@
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=varun-george.visitor-badge)
 
+
 ## ✍ My Work
 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-george&show_icons=true&theme=highcontrast)
