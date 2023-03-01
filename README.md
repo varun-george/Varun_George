@@ -62,7 +62,7 @@
 
 ## ❤ Connect
 
-<a href="https://www.linkedin.com/in/akash-rangesh-3bb445249/">
+<a href="https://www.linkedin.com/in/varun-george-340a28259/">
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
@@ -70,9 +70,7 @@
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 
-<a href="https://www.instagram.com/akash._.77/">
-  <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/white/gmail"/>
-</a>  
+
   
 # 
 #
