@@ -1,4 +1,8 @@
 ## Hi, Varun here </h2>
+
+-Studying at Shiv Nadar University,Chennai<br>
+-Interested in Web Development<br>
+-Currently exploring Data Analysis and Machine Learning<br>
  
  
  
