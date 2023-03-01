@@ -24,7 +24,10 @@
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="C" href="https://python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C" width="40" height="40"/> </a>
+      <a title="C" href="https://www.learn-c.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C" width="40" height="40"/> </a>
+    </td>
+   <td>
+      <a title="C++" href="https://cplusplus.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0PeNT1-M8TgHRba036vT1c&ust=1677746443918000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODVjtmquv0CFQAAAAAdAAAAABAE" alt="C" width="40" height="40"/> </a>
     </td>
   </tr>
   
