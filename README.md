@@ -6,7 +6,7 @@
  
  
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=varun-george.visitor-badge&left_color=red&right_color=green)<br>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=varun-george.visitor-badge)
 
 ## ✍ My Work
 
