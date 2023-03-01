@@ -6,7 +6,7 @@
 
 ## ✍ My Work
 
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-george)&show_icons=true&theme=tokyonight]
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-george&show_icons=true&theme=dracula)
 
 ### Skills
 
