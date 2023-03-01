@@ -58,9 +58,23 @@
     </td>
   </tr>
  
+  <tr>
+    <td>
+      <h4>Libraries</h4>
+    </td>
+    <td>
+      <a title="Vs Code" href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="40" height="40"/> </a>
+    </td>
+    <td>
+       <a title="Tableu" href="https://www.tableau.com/why-tableau/what-is-tableau" target="_blank"> <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableu" width="40" height="40"/> </a>
+    </td>
+  </tr>
+ 
+ 
+ 
 </table>
 
-## ❤ Connect
+## Find Me At
 
 <a href="https://www.linkedin.com/in/varun-george-340a28259/">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/fluency/256/linkedin.png" height="30" width="30"/>
@@ -69,8 +83,6 @@
 <a href="mailto:sureshvarungbv@gmail.com">
   <img align="left" alt="Email" src="https://img.icons8.com/color/256/gmail.png" height="30" width="30"/>
 </a>
-
-
   
 # 
 #
