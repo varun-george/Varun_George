@@ -67,7 +67,7 @@
 </a>
 
 <a href="mailto:sureshvarungbv@gmail.com">
-  <img align="left" alt="Email" src="https://icons8.com/icon/37246/gmail-logo"/>
+  <img align="left" alt="Email" src="https://img.icons8.com/color/256/gmail.png"/>
 </a>
 
 
