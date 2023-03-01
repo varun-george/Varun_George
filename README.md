@@ -1,14 +1,12 @@
 ## Hi, Varun here </h2>
  
  
-- 🔭 I’m currently working on React js, Next js, Express js, MongoDB, Prisma, REST APIs and web projects. 🐱‍👤
-- ⚡ I Love exploring new Tech 👨‍💻
-
+ 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CruxCoder7.visitor-badge&style=flat-square&color=0088cc)<br>
 
 ## ✍ My Work
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=CruxCoder7&show_icons=true&theme=dark)
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-george)&show_icons=true&theme=tokyonight]
 
 ### Skills
 
